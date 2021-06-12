@@ -9,6 +9,6 @@
   "author": "CelestialCrafter",
   "license": "MIT",
   "devDependencies": {
-    "forever": "^1.0.0"
+    "forever": "^4.0.1"
   }
 }
